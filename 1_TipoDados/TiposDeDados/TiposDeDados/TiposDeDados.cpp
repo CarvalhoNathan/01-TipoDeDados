@@ -59,6 +59,7 @@ int main()
 	int dias = 0;
 	int horas = 0;
 	int minutos = 0;
+	int segundos = 0;
 
 	cout << "Digite seu nome: ";
 	cin >> nome;
@@ -70,6 +71,7 @@ int main()
 	cout << "Sua idade em dias e: " << dias << endl;
 	cout << "Sua idade em horas e: " << horas << endl;
 	cout << "Sua idade em minutos e: " << minutos << endl;
+	cout << "Sua idade em segundos e: " << minutos * << endl;
 
 	cout << "Qualquer tecla para sair...";
 	system("pause"); // somente no Windows
